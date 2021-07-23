@@ -1,2 +1,2 @@
 # gitflow-test
-Some tests with gitflow
+Some tests with gitflow.
